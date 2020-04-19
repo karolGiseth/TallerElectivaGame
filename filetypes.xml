@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="storyMadLibs" type="PLAIN_TEXT" />
       <mapping pattern="description" type="PLAIN_TEXT" />
+      <mapping pattern="story" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
