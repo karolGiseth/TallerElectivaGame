@@ -18,6 +18,10 @@
           <option name="url" value="C:\Users\Angelica\AndroidStudioProjects\Android-MadLib" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/magotecnologia/madlibs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Angelica\AndroidStudioProjects" />
