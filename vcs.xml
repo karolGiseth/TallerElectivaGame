@@ -50,6 +50,10 @@
           <option name="url" value="https://github.com/dgallego58/FriendsR.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/camilo1111/Taller4.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Angelica\AndroidStudioProjects" />
